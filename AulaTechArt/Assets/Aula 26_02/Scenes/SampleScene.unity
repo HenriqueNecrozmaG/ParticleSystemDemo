@@ -133,7 +133,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6633961321318983493, guid: 966cac33f4b07584d91f8b304cd9a800, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6954177663038635790, guid: 966cac33f4b07584d91f8b304cd9a800, type: 3}
       propertyPath: m_LocalPosition.x
@@ -492,7 +492,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4123296407743112981, guid: f122d1b03a959ee49b2fdf88b692aa69, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -685,7 +685,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1725719353896921040, guid: 6b15cf969209f5d4eab8e1659f88d8be, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6391497725752230414, guid: 6b15cf969209f5d4eab8e1659f88d8be, type: 3}
       propertyPath: m_LocalPosition.x
@@ -791,7 +791,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4985304431446246933, guid: 985b00ebecf4a1b49b0fdb324f3b08d6, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7122738507133667023, guid: 985b00ebecf4a1b49b0fdb324f3b08d6, type: 3}
       propertyPath: ColorModule.gradient.maxGradient.atime1
@@ -852,7 +852,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6317623884889305789, guid: e7e1f7f0df7744248837dcd604a36707, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6831186989125771673, guid: e7e1f7f0df7744248837dcd604a36707, type: 3}
       propertyPath: m_LocalPosition.x
