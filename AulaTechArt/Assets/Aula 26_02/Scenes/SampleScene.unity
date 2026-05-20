@@ -127,13 +127,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2265652442203007617, guid: 966cac33f4b07584d91f8b304cd9a800, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2690739528473161405, guid: 966cac33f4b07584d91f8b304cd9a800, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6633961321318983493, guid: 966cac33f4b07584d91f8b304cd9a800, type: 3}
       propertyPath: m_Name
       value: Thunderbolt
       objectReference: {fileID: 0}
     - target: {fileID: 6633961321318983493, guid: 966cac33f4b07584d91f8b304cd9a800, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6954177663038635790, guid: 966cac33f4b07584d91f8b304cd9a800, type: 3}
       propertyPath: m_LocalPosition.x
